@@ -24,6 +24,10 @@ body {
     text-align: center
 }
 
+#Profile-Job{
+    text-align: center;
+}
+
 #header{
     width: 100%;
     height: 50px;
